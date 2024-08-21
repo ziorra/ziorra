@@ -2,6 +2,9 @@ html{
     background-color: #EAE0CC;
     margin: 6px;
 }
+.pre {
+    color: #040f16
+}
 .a1,.a2{
     color: #2b4044;
     text-align: center;
